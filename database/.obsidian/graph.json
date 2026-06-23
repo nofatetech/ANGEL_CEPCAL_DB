@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -9,31 +9,43 @@
   "colorGroups": [
     {
       "query": "tag:#theme",
-      "color": { "a": 1, "rgb": 15909198 }
+      "color": {
+        "a": 1,
+        "rgb": 15909198
+      }
     },
     {
       "query": "tag:#org",
-      "color": { "a": 1, "rgb": 7327599 }
+      "color": {
+        "a": 1,
+        "rgb": 7327599
+      }
     },
     {
       "query": "tag:#person",
-      "color": { "a": 1, "rgb": 6003669 }
+      "color": {
+        "a": 1,
+        "rgb": 6003669
+      }
     },
     {
       "query": "tag:#person [\"country_certainty\":\"inferred\"]",
-      "color": { "a": 1, "rgb": 14893620 }
+      "color": {
+        "a": 1,
+        "rgb": 14893620
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.7,
-  "nodeSizeMultiplier": 1.4,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 2.090625,
+  "lineSizeMultiplier": 2.60104166666667,
   "collapse-forces": false,
   "centerStrength": 0.5,
   "repelStrength": 11,
   "linkStrength": 1,
-  "linkDistance": 220,
-  "scale": 0.62,
+  "linkDistance": 265,
+  "scale": 0.3612448300347011,
   "close": false
 }
