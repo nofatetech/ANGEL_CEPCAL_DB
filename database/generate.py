@@ -292,6 +292,7 @@ def write_home(people, orgs, theme_people):
     lines.append("- **Panel de etiquetas**: despliega `offers/` y `seeks/` para ver quién ofrece / busca qué.")
     lines.append("- [[MATCHES|🔗 Emparejamiento sugerido]] · quién debería conocer a quién + necesidades no cubiertas.")
     lines.append("- [[INDEX|Índice completo]] · tablas de personas, países y emparejamiento.")
+    lines.append("- [[BACKLOG|🗺️ Backlog & plan]] · próximos pasos e ideas (mantenido a mano).")
     lines.append("")
 
     lines.append("## Temas (tableros de emparejamiento)")

@@ -9,6 +9,7 @@ Base de datos viva de la comunidad centroamericana de enfermedades raras. El obj
 - **Panel de etiquetas**: despliega `offers/` y `seeks/` para ver quién ofrece / busca qué.
 - [[MATCHES|🔗 Emparejamiento sugerido]] · quién debería conocer a quién + necesidades no cubiertas.
 - [[INDEX|Índice completo]] · tablas de personas, países y emparejamiento.
+- [[BACKLOG|🗺️ Backlog & plan]] · próximos pasos e ideas (mantenido a mano).
 
 ## Temas (tableros de emparejamiento)
 Cada tema lista quién **ofrece** y quién **busca** a su alrededor.
