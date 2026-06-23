@@ -1,0 +1,59 @@
+00:00:01,500 --> 00:00:04,620 [Speaker 0]
+¿Quién eres y cuál es tu relación con las enfermedades raras? 
+
+00:00:04,620 --> 00:00:28,060 [Speaker 1]
+Bueno, mi nombre es Valte Rosales. Yo soy CEO o director general de una empresa que acabo de fundar con varios socios, este, que se llama Galenus. Y ¿qué es lo que nos enfocamos en Galen-- en Galenus? Principalmente en brindar un software que le sirva tanto a los médicos como a los pacientes. Y en el caso de enfermedades raras, que sea una herramienta que les ayude a atacar la odi-- la odisea diagnóstica. 
+
+00:00:29,090 --> 00:00:30,980 [Speaker 0]
+¿Qué puedes aportar a esta comunidad? 
+
+00:00:32,420 --> 00:00:59,320 [Speaker 1]
+Yo creo que una parte, bueno, particularmente en mi caso, que está muy del lado técnico-tecnológico, o sea, la parte de ingeniería, programación, código y toda esta cuestión tecnológica, ¿no? Es brindarles estas herramientas que a veces parecen muy lejanas o que parecen muy reservadas a entidades, este, que están en otros países y demás, acercarlas y brindar lo mejor posible para poder ayudar a estas personas que las necesitan y que creemos que se pueden beneficiar. 
+
+00:00:59,320 --> 00:01:02,520 [Speaker 0]
+¿Qué estás buscando actualmente? 
+
+00:01:02,520 --> 00:01:32,620 [Speaker 1]
+Actualmente, lo que estamos buscando es que haya más participantes. Justamente, lo que se encuentra en la odisea diagnóstica es que todos estos silos están desconectados. La gente, los diferentes médicos, las diferentes instituciones no tienen un vínculo, una relación entre cada uno de ellos. Entonces, lo que estamos buscando es crear lo que nosotros llamamos el efecto red. Mientras más personas, mientras más instituciones, mientras más pacientes estén dentro, mayor va a ser el beneficio. Eso es lo que buscamos, que se integren, que se unan a la red. 
+
+00:01:32,620 --> 00:01:36,420 [Speaker 0]
+¿Qué tipo de personas u organizaciones te gustaría conocer durante este evento? 
+
+00:01:38,020 --> 00:02:04,960 [Speaker 1]
+Creo que las que más me encantaría y las que estaríamos más orgullosos como institución son pacientes, porque ese es nuestro centro. Tal cual dentro de la misión de Galenus es el paciente siempre al centro. Entonces, que ahorita ya más pacientes, más personas que se vean beneficiadas o que su salud se vea beneficiada, derivada de conocer esta plataforma. Y evidentemente los médicos, ¿no? Que son otros que les estamos dando de otra manera, les estamos aportando valor, ¿no? Facilitándoles varias de sus actividades. 
+
+00:02:05,970 --> 00:02:12,940 [Speaker 0]
+¿Cuáles son-- cuáles consideras que son los tres principales desafíos relacionados con las enfermedades raras en tu país o comunidad? 
+
+00:02:12,940 --> 00:02:52,840 [Speaker 1]
+Bueno, por ejemplo, en mi caso, yo vengo de México, ¿no? Y uno de los principales problemas es el desconocimiento. Muchas veces la gente no sabe lo que tiene y el temor, yo podría decir que es la segunda parte, ¿no? Una cosa es: «No, no sé qué tengo». Pero la segunda es: «Como no sé, mejor no busco, no vaya a ser algo que es intratable, no, que me digan: "No, sabe qué, usted tiene una enfermedad terminal"». Cosas de ese estilo. Entonces, primero pondría el desconocimiento, el temor y el tercero, definitivamente, los rasgos culturales, que a veces no nos permiten entender esto. Entonces, sería como esa inflexibilidad de decir: «Ah, sí, a lo mejor ya me dijeron esto, pero no lo quiero creer, entonces mejor me niego». 
+
+00:02:53,880 --> 00:03:01,070 [Speaker 0]
+Interesante. Si pudieras resolver tres problemas relacionados con las enfermedades raras durante los próximos doce meses, ¿cuáles serían? 
+
+00:03:02,760 --> 00:03:46,300 [Speaker 1]
+[suspirando] Me encantaría, eh, reducir esa odisea diagnóstica, definitivamente. O sea, que las pacientes dejen de sufrir. De por sí tienen una enfermedad que les complica la vida y todavía el detectarla y el tener un tratamiento y un seguimiento es sufrimiento, evitarlo, reducirlo lo más posible. Segundo, poder colaborar y crear otras alianzas con otras instituciones para que cada vez se haga mayor eco, una voz más fuerte, tanto de enfermedades raras como de los pacientes que la padecen y de las instituciones y de las asociaciones que los están ayudando. Y el tercero, que tal vez sale mucho de mi cancha, ¿no? Pero es poderles brindar, ya sea diagnósticos más oportunos con mejores tratamientos. 
+
+00:03:46,300 --> 00:03:55,280 [Speaker 0]
+Súper. Y la última. ¿Hay algún, pues algún proyecto, iniciativa, recurso, evento o colaboración que te gustaría comp-compartir, promover ahorita? 
+
+00:03:55,280 --> 00:04:13,829 [Speaker 1]
+Pues ahorita más que nada es la oportunidad que tuvimos aquí en CEPcal de participar en este congreso, ¿no? Y también encontrar otras instituciones, otras asociaciones de pacientes que justamente tienen la misma intención que nosotros, pero desde otro abordaje. Entonces, juntar esfuerzos, eso creo que ha sido lo más, lo más importante de aquí. 
+
+00:04:13,829 --> 00:04:16,339 [Speaker 0]
+¿Y podrías recordarnos tu proyecto otra vez? ¿Cómo, cómo se llama? 
+
+00:04:16,340 --> 00:04:45,360 [Speaker 1]
+Claro que sí. Mi proyecto se llama Galenus, tal cual, así como Galeno, ¿no? Pero en este caso con la terminación U, S, Galenus. Y es un software que tiene dos partes, la parte para médicos, es decir, un expediente clínico o una ficha médica, para los, para los médicos, con varias cosas de inteligencia artificial para ahorrarles tiempo. Y está la otra parte, que es para los pacientes. ¿Cómo describiría esta relación? En nuestra métrica principal. Cada visita del paciente a un médico 
+
+00:04:46,540 --> 00:04:57,700 [Speaker 1]
+se refleja con algo para el paciente, ya sea estudios, ya sea resúmenes, ya sea recetas, pero siempre el paciente tiene que salir con algo que pueda compartir después de cada visita. 
+
+00:04:57,700 --> 00:04:59,280 [Speaker 0]
+Súper. Muchas gracias, eso es todo. 
+
+00:04:59,280 --> 00:05:00,020 [Speaker 1]
+Muchísimas gracias. 
+
+00:05:00,020 --> 00:05:00,550 [Speaker 0]
+Igual, igual.

@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "project": "ANGEL",
+    "description": "Organizations and entities mentioned across the CEPCAL 2026 interviews. Linked to people via 'people_slugs'. Field names in English, content in Spanish.",
+    "schema_version": "1.0"
+  },
+  "organizations": [
+    {
+      "id": "org-fecpac",
+      "name": "FECPAC",
+      "type": "federation / patient-organization network",
+      "country": "Centroamérica (regional)",
+      "description": "Federación vinculada a la organización del congreso CEPCAL. Citada como muy inclusiva: reúne en un mismo espacio a tomadores de decisiones, políticos, pacientes, familiares y organizaciones. Gabriela Santos Kol forma parte.",
+      "people_slugs": ["cris-pelaez-ballestas"],
+      "related_people_mentioned": ["Gabriela Santos Kol"],
+      "notes": "Nombre transcrito de forma variable (FECPAC). Confirmar denominación y relación exacta con CEPCAL y con el proyecto ANGEL."
+    },
+    {
+      "id": "org-cepcal",
+      "name": "CEPCAL",
+      "type": "congress / event",
+      "country": "Centroamérica (regional, sede Guatemala)",
+      "description": "Congreso centroamericano de enfermedades raras donde se grabaron las entrevistas (2026-06-21). Desarrolla una 'ficha clínica epidemiológica de anomalías congénitas'. Lleva ~3 años realizándose.",
+      "people_slugs": ["marco-tulio-paez", "ana-amato"],
+      "related_people_mentioned": [],
+      "notes": "Nombre canónico confirmado: CEPCAL. El ASR lo transcribe con variantes (CERCAL / SECALPA / 'Central' / 'Cercal')."
+    },
+    {
+      "id": "org-angel",
+      "name": "Ángel",
+      "type": "patient organization / initiative",
+      "country": "Guatemala (inferido)",
+      "description": "Organización nacida de familiares de pacientes con enfermedades lisosomales, ampliada a personas sin diagnóstico o sin organización. Visión: que todo paciente de enfermedad rara se sienta un ser humano dentro de su comunidad. Da nombre a este proyecto.",
+      "people_slugs": ["angel-presenter-unidentified"],
+      "related_people_mentioned": ["Andrea"],
+      "notes": "Presentador/a sin identificar en el clip. Identificar quién presenta y quién es 'Andrea'."
+    },
+    {
+      "id": "org-umg",
+      "name": "Universidad Mariano Gálvez (UMG)",
+      "type": "university / laboratory",
+      "country": "Guatemala",
+      "description": "Universidad guatemalteca con laboratorio de biología molecular (NGS) e Instituto de Investigaciones I2Q3. Co-organiza/apoya el congreso. Saca promociones de pruebas diagnósticas para personas de escasos recursos.",
+      "people_slugs": ["suset-bour", "ana-amato"],
+      "related_people_mentioned": [],
+      "notes": "Incluye el Instituto de Investigaciones I2Q3 y el Laboratorio de Biología Molecular."
+    },
+    {
+      "id": "org-creciendo-con-diabetes",
+      "name": "Asociación Creciendo con Diabetes",
+      "type": "patient organization",
+      "country": "Guatemala (inferido)",
+      "description": "Asociación con ~20 años apoyando a niños, adolescentes y jóvenes con diabetes tipo 1 y sus familias. Tiene un programa estructurado (6-10 sesiones) de actualización a profesionales de la salud, replicable a otras patologías.",
+      "people_slugs": ["yanina-argueta", "ana-maria-galvez-sobral"],
+      "related_people_mentioned": [],
+      "notes": "Yanina Argueta es fundadora."
+    },
+    {
+      "id": "org-capris",
+      "name": "Corporación Capris / Capris Médica",
+      "type": "industry / technology distributor",
+      "country": "Costa Rica (sede); presencia en Centroamérica",
+      "description": "Distribuidora de tecnología diagnóstica presente en la mayoría de países de Centroamérica; representa a Illumina. Promueve webinars de conocimiento y plataformas tecnológicas para diagnóstico.",
+      "people_slugs": ["melissa-montenegro"],
+      "related_people_mentioned": [],
+      "notes": "Representa a Illumina."
+    },
+    {
+      "id": "org-galenus",
+      "name": "Galenus",
+      "type": "health-tech startup",
+      "country": "México",
+      "description": "Software médico en dos partes: expediente clínico con IA para médicos y un componente para pacientes (cada visita deja algo tangible que el paciente puede compartir). Enfocado en reducir la odisea diagnóstica vía 'efecto red'.",
+      "people_slugs": ["valte-rosales"],
+      "related_people_mentioned": [],
+      "notes": "Cofundada por Valte Rosales (CEO)."
+    },
+    {
+      "id": "org-rett-guatemala",
+      "name": "Asociación Síndrome de Rett Guatemala",
+      "type": "patient organization",
+      "country": "Guatemala",
+      "description": "Pionera en divulgación del síndrome de Rett hacia profesionales de salud y educación. Gestiona tratamiento para las niñas (vía judicialización). Busca dominio web y voluntariado para aliviar la carga de los cuidadores.",
+      "people_slugs": ["claribel-castillo"],
+      "related_people_mentioned": [],
+      "notes": "Fundada por Claribel Castillo (psicóloga)."
+    },
+    {
+      "id": "org-fq",
+      "name": "Asociación de Fibrosis Quística (nombre por confirmar)",
+      "type": "patient organization",
+      "country": "Guatemala (inferido)",
+      "description": "Asociación de fibrosis quística enfocada en acompañar a las familias. Promueve el Día Internacional de la FQ (8 de septiembre).",
+      "people_slugs": ["patricia-morales"],
+      "related_people_mentioned": [],
+      "notes": "Confirmar nombre oficial de la asociación."
+    },
+    {
+      "id": "org-ccss",
+      "name": "Caja Costarricense de Seguro Social (CCSS) — Programa Nacional de Cáncer Hereditario",
+      "type": "public health system / program",
+      "country": "Costa Rica",
+      "description": "Seguridad Social de Costa Rica. Incluye genética clínica reproductiva (FIV) y el Programa Nacional de Cáncer Hereditario (consejo genético oncológico).",
+      "people_slugs": ["juan-carlos-villalta-fallas"],
+      "related_people_mentioned": [],
+      "notes": ""
+    },
+    {
+      "id": "org-genomica-humana-cr",
+      "name": "Asociación de Genómica Humana Costarricense",
+      "type": "professional association / advisory group",
+      "country": "Costa Rica",
+      "description": "Asociación recientemente revivida como grupo consultivo técnico de alto nivel para gobiernos y la CCSS. Próximamente abre una consulta de enfermedades huérfanas en el Hospital Dr. Rafael Calderón Guardia.",
+      "people_slugs": ["juan-carlos-villalta-fallas"],
+      "related_people_mentioned": ["Dr. Rolando Ovios", "Profesor Saborío"],
+      "notes": ""
+    },
+    {
+      "id": "org-hospital-general-mexico",
+      "name": "Hospital General de México — Servicio de Reumatología",
+      "type": "hospital / research service",
+      "country": "México",
+      "description": "Sede de la línea de investigación en antropología médica y epidemiología sobre enfermedades reumáticas poco frecuentes; origen del concepto 'peregrinaje'.",
+      "people_slugs": ["cris-pelaez-ballestas"],
+      "related_people_mentioned": ["Dra. Cerón (Hospital Infantil de México)"],
+      "notes": ""
+    },
+    {
+      "id": "org-andres-bello",
+      "name": "Universidad Dr. Andrés Bello",
+      "type": "university",
+      "country": "El Salvador",
+      "description": "Universidad salvadoreña que respalda la investigación sobre microdeleciones del cromosoma Y y fertilidad masculina. Punto de enlace (redes sociales) para reclutar pacientes.",
+      "people_slugs": ["oscar-pena-rodas"],
+      "related_people_mentioned": [],
+      "notes": ""
+    },
+    {
+      "id": "org-centro-genetica-nicaragua",
+      "name": "Centro de genética (Nicaragua)",
+      "type": "diagnostic center (in development)",
+      "country": "Nicaragua",
+      "description": "Iniciativa local por etapas para diagnóstico genético; meta de resolver ~90% de los diagnósticos posibles del país hacia 2029-2030.",
+      "people_slugs": ["jose-gerardo-mejia-baltodano"],
+      "related_people_mentioned": [],
+      "notes": ""
+    },
+    {
+      "id": "org-rd-programa",
+      "name": "Programa público de acceso a tratamiento (República Dominicana)",
+      "type": "public health program",
+      "country": "República Dominicana",
+      "description": "Programa que busca acceso a tratamiento para pacientes con enfermedades raras; dirigido por el Dr. Carlos Sánchez. Interés en replicar el modelo del congreso en RD.",
+      "people_slugs": ["carlos-sanchez"],
+      "related_people_mentioned": [],
+      "notes": "Confirmar nombre oficial del programa y la institución."
+    }
+  ]
+}
