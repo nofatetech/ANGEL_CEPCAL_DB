@@ -6,6 +6,8 @@ tags:
 
 # caregiver_burden
 
-*Tema compartido — 1 persona(s). Ver el grafo local para el clúster de emparejamiento.*
+*Tema compartido — 1 persona(s). Tablero de emparejamiento: quién ofrece y quién busca en torno a este tema.*
 
-- [[profiles/13-claribel-castillo|Claribel Castillo]]
+| Persona | País | Ofrece | Busca |
+|---|---|---|---|
+| [[profiles/13-claribel-castillo|Claribel Castillo]] | Guatemala | dissemination, mental_health, caregiver_focus | networks, alliances, web_presence, volunteers |

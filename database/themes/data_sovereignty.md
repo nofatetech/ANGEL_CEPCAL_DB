@@ -6,6 +6,8 @@ tags:
 
 # data_sovereignty
 
-*Tema compartido — 1 persona(s). Ver el grafo local para el clúster de emparejamiento.*
+*Tema compartido — 1 persona(s). Tablero de emparejamiento: quién ofrece y quién busca en torno a este tema.*
 
-- [[profiles/07-melissa-montenegro|Melissa Montenegro]]
+| Persona | País | Ofrece | Busca |
+|---|---|---|---|
+| [[profiles/07-melissa-montenegro|Melissa Montenegro]] | Costa Rica | technology, diagnosis_tools, regional_knowledge | networks, collaboration |

@@ -6,8 +6,10 @@ tags:
 
 # funding
 
-*Tema compartido — 3 persona(s). Ver el grafo local para el clúster de emparejamiento.*
+*Tema compartido — 3 persona(s). Tablero de emparejamiento: quién ofrece y quién busca en torno a este tema.*
 
-- [[profiles/01-suset-bour|Suset Bour]]
-- [[profiles/15-oscar-pena-rodas|Óscar Peña Rodas]]
-- [[profiles/16-leslie-lopez|Leslie López]]
+| Persona | País | Ofrece | Busca |
+|---|---|---|---|
+| [[profiles/01-suset-bour|Suset Bour]] | Guatemala | sequencing_lab, diagnosis_support | funding, legislation, networks |
+| [[profiles/15-oscar-pena-rodas|Óscar Peña Rodas]] | El Salvador | data_generation, research | patients, funding, specialists, ngs_collaboration |
+| [[profiles/16-leslie-lopez|Leslie López]] | Honduras | transfusion_medicine, education, awareness | knowledge, networks |

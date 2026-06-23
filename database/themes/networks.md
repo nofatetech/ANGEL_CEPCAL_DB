@@ -6,15 +6,17 @@ tags:
 
 # networks
 
-*Tema compartido — 10 persona(s). Ver el grafo local para el clúster de emparejamiento.*
+*Tema compartido — 10 persona(s). Tablero de emparejamiento: quién ofrece y quién busca en torno a este tema.*
 
-- [[profiles/02-patricia-morales|Patricia Morales]]
-- [[profiles/05-ana-maria-galvez-sobral|Ana María Gálvez Sobral]]
-- [[profiles/06-yanina-argueta|Yanina Argueta]]
-- [[profiles/07-melissa-montenegro|Melissa Montenegro]]
-- [[profiles/08-cris-pelaez-ballestas|Cris (Ingris) Peláez Ballestas]]
-- [[profiles/09-ana-amato|Ana Amato]]
-- [[profiles/11-marco-tulio-paez|Marco Tulio Páez]]
-- [[profiles/12-valte-rosales|Valte Rosales]]
-- [[profiles/13-claribel-castillo|Claribel Castillo]]
-- [[profiles/18-jose-gerardo-mejia-baltodano|José Gerardo Mejía Baltodano]]
+| Persona | País | Ofrece | Busca |
+|---|---|---|---|
+| [[profiles/02-patricia-morales|Patricia Morales]] | Guatemala | patient_accompaniment, network_building | networks, advocacy, visibility |
+| [[profiles/05-ana-maria-galvez-sobral|Ana María Gálvez Sobral]] | Guatemala | education, patient_accompaniment, replicable_program | networks, science_updates |
+| [[profiles/06-yanina-argueta|Yanina Argueta]] | Guatemala | mentorship, community, education | networks, science_updates |
+| [[profiles/07-melissa-montenegro|Melissa Montenegro]] | Costa Rica | technology, diagnosis_tools, regional_knowledge | networks, collaboration |
+| [[profiles/08-cris-pelaez-ballestas|Cris (Ingris) Peláez Ballestas]] | México | research, methodology, epidemiological_data, concept_peregrinaje | data_collaboration, latam_registry, networks |
+| [[profiles/09-ana-amato|Ana Amato]] | Guatemala | nutrition, education, sensibilization | training, networks, product_access |
+| [[profiles/11-marco-tulio-paez|Marco Tulio Páez]] | Guatemala | diagnosis_support, education, registry_design | engineering_partners, legislation, patient_org_consensus |
+| [[profiles/12-valte-rosales|Valte Rosales]] | México | technology, software, ai_tools | patients, physicians, alliances, network_effect |
+| [[profiles/13-claribel-castillo|Claribel Castillo]] | Guatemala | dissemination, mental_health, caregiver_focus | networks, alliances, web_presence, volunteers |
+| [[profiles/18-jose-gerardo-mejia-baltodano|José Gerardo Mejía Baltodano]] | Nicaragua | clinical_genetics, diagnosis_center, family_support | registry_software, patient_experiences, sample_logistics |

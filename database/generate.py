@@ -217,12 +217,65 @@ def write_theme(theme, people):
     lines.append(f"# {theme}")
     lines.append("")
     lines.append(f"*Tema compartido — {len(people)} persona(s). "
-                 "Ver el grafo local para el clúster de emparejamiento.*")
+                 "Tablero de emparejamiento: quién ofrece y quién busca en torno a este tema.*")
     lines.append("")
+    lines.append("| Persona | País | Ofrece | Busca |")
+    lines.append("|---|---|---|---|")
     for p in people:
-        lines.append(f"- {person_link(p)}")
+        t = p["tags"]
+        offers = ", ".join(t.get("offers", [])) or "—"
+        seeks = ", ".join(t.get("seeks", [])) or "—"
+        lines.append(f"| {person_link(p)} | {p['country']['value']} | {offers} | {seeks} |")
     lines.append("")
     with open(os.path.join(THEMES, f"{theme}.md"), "w") as f:
+        f.write("\n".join(lines))
+
+
+def write_home(people, orgs, theme_people):
+    lines = []
+    lines.append("# 🏠 ANGEL — Inicio")
+    lines.append("")
+    lines.append(f"*{len(people)} personas · {len(orgs)} organizaciones · "
+                 f"{len(theme_people)} temas · CEPCAL 2026 (2026-06-21)*")
+    lines.append("")
+    lines.append("Base de datos viva de la comunidad centroamericana de enfermedades raras. "
+                 "El objetivo es **conectar** personas, no solo archivarlas.")
+    lines.append("")
+
+    lines.append("## Cómo navegar")
+    lines.append("- **Grafo** (Ctrl/Cmd-G): los nodos dorados son **temas** (los conectores), "
+                 "verdes **organizaciones**, azules **personas** (naranja = país inferido, por confirmar).")
+    lines.append("- **Panel de etiquetas**: despliega `offers/` y `seeks/` para ver quién ofrece / busca qué.")
+    lines.append("- [[INDEX|Índice completo]] · tablas de personas, países y emparejamiento.")
+    lines.append("")
+
+    lines.append("## Temas (tableros de emparejamiento)")
+    lines.append("Cada tema lista quién **ofrece** y quién **busca** a su alrededor.")
+    lines.append("")
+    for th, ppl in sorted(theme_people.items(), key=lambda x: -len(x[1])):
+        lines.append(f"- [[themes/{th}|{th}]] ({len(ppl)})")
+    lines.append("")
+
+    lines.append("## Organizaciones")
+    for o in orgs:
+        lines.append(f"- [[orgs/{o['id']}|{o['name']}]]")
+    lines.append("")
+
+    # data-derived open TODOs (keeps the worklist honest as data grows)
+    inferred = [p for p in people if p["country"]["certainty"] == "inferred"]
+    no_contact = [p for p in people if not p.get("contact")]
+    unidentified = [p for p in people if "unidentified" in p["slug"]]
+    lines.append("## Pendientes (derivado de los datos)")
+    lines.append(f"- **País por confirmar** ({len(inferred)}): " +
+                 ", ".join(person_link(p) for p in inferred) if inferred else "- País por confirmar: ninguno")
+    lines.append(f"- **Sin contacto** ({len(no_contact)}): " +
+                 ", ".join(person_link(p) for p in no_contact) if no_contact else "- Sin contacto: ninguno")
+    if unidentified:
+        lines.append(f"- **Sin identificar** ({len(unidentified)}): " +
+                     ", ".join(person_link(p) for p in unidentified))
+    lines.append("")
+
+    with open(os.path.join(HERE, "HOME.md"), "w") as f:
         f.write("\n".join(lines))
 
 
@@ -322,8 +375,9 @@ def main():
     for th, ppl in theme_people.items():
         write_theme(th, ppl)
     write_index(people, orgs)
+    write_home(people, orgs, theme_people)
     print(f"Generated {len(people)} profiles, {len(orgs)} orgs, "
-          f"{len(theme_people)} theme nodes + INDEX.md")
+          f"{len(theme_people)} theme nodes + INDEX.md + HOME.md")
 
 
 if __name__ == "__main__":
