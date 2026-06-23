@@ -31,6 +31,50 @@ PROFILES = os.path.join(HERE, "profiles")
 ORGS = os.path.join(HERE, "orgs")
 THEMES = os.path.join(HERE, "themes")
 
+# Curated heuristic map: a SEEK term -> the OFFER terms that plausibly satisfy it.
+# offers and seeks use disjoint vocabularies, so direct matching finds almost nothing;
+# this bridge turns "X busca funding-ish" into concrete "Y ofrece ..." suggestions.
+# It is a HINT layer for humans to confirm — never written back into the source JSON.
+# Edit freely; seeks not listed here (e.g. funding) surface as unmet needs.
+SEEK_BRIDGE = {
+    "legislation": {"public_policy_experience"},
+    "government_support": {"public_policy_experience"},
+    "advocacy": {"public_policy_experience", "sensibilization", "awareness"},
+    "networks": {"network_building", "regional_network", "community", "organization"},
+    "network_effect": {"network_building", "regional_network", "community", "organization"},
+    "associations": {"organization", "network_building", "community"},
+    "alliances": {"network_building", "regional_network", "consulting_group", "organization"},
+    "patient_org_consensus": {"network_building", "regional_network", "organization"},
+    "visibility": {"dissemination", "awareness", "sensibilization"},
+    "awareness": {"awareness", "sensibilization", "dissemination"},
+    "respect": {"sensibilization", "awareness"},
+    "inclusion": {"sensibilization", "awareness", "community", "family_support"},
+    "access": {"medication_access"},
+    "product_access": {"medication_access"},
+    "education": {"education", "academic_multiplier", "mentorship", "knowledge"},
+    "training": {"education", "mentorship", "methodology", "academic_multiplier"},
+    "training_programs": {"education", "replicable_program", "methodology"},
+    "human_resources": {"academic_multiplier", "mentorship", "education"},
+    "science_updates": {"research", "clinical_genetics", "knowledge"},
+    "knowledge": {"knowledge", "research", "regional_knowledge", "education"},
+    "collaboration": {"research", "consulting_group", "regional_network"},
+    "data_collaboration": {"epidemiological_data", "data_generation", "registry_design"},
+    "latam_registry": {"registry_design", "epidemiological_data", "data_generation"},
+    "registry_software": {"software", "registry_design", "ai_tools"},
+    "ngs_collaboration": {"sequencing_lab", "diagnosis_tools", "data_generation"},
+    "sample_logistics": {"sequencing_lab", "diagnosis_center", "transfusion_medicine"},
+    "diagnosis_groups": {"diagnosis_support", "diagnosis_center", "clinical_genetics", "diagnosis_tools"},
+    "specialists": {"clinical_genetics", "diagnosis_support"},
+    "physicians": {"clinical_genetics", "diagnosis_support"},
+    "patients": {"patient_accompaniment", "family_support", "community", "lived_experience"},
+    "patient_experiences": {"lived_experience", "patient_accompaniment"},
+    "engineering_partners": {"software", "ai_tools", "technology"},
+    "web_presence": {"software", "technology", "dissemination"},
+    "volunteers": {"community"},
+    "congress_replication": {"replicable_program", "concept_peregrinaje", "organization"},
+    "congress_model": {"replicable_program", "organization"},
+}
+
 QLABELS = {
     "contribute": "Q2 · Qué puede aportar",
     "seeking": "Q3 · Qué busca actualmente",
@@ -246,6 +290,7 @@ def write_home(people, orgs, theme_people):
     lines.append("- **Grafo** (Ctrl/Cmd-G): los nodos dorados son **temas** (los conectores), "
                  "verdes **organizaciones**, azules **personas** (naranja = país inferido, por confirmar).")
     lines.append("- **Panel de etiquetas**: despliega `offers/` y `seeks/` para ver quién ofrece / busca qué.")
+    lines.append("- [[MATCHES|🔗 Emparejamiento sugerido]] · quién debería conocer a quién + necesidades no cubiertas.")
     lines.append("- [[INDEX|Índice completo]] · tablas de personas, países y emparejamiento.")
     lines.append("")
 
@@ -276,6 +321,61 @@ def write_home(people, orgs, theme_people):
     lines.append("")
 
     with open(os.path.join(HERE, "HOME.md"), "w") as f:
+        f.write("\n".join(lines))
+
+
+def write_matches(people):
+    """Generated suggestion layer: for each seeker, who offers something that bridges
+    to what they seek. Heuristic (SEEK_BRIDGE), for humans to confirm. Also reports
+    unmet needs — seeks nobody in the base can currently satisfy."""
+    lines = []
+    lines.append("# 🔗 Emparejamiento sugerido")
+    lines.append("")
+    lines.append("> Heurística derivada de un mapa curado `seek → offer` (ver `SEEK_BRIDGE` en "
+                 "`generate.py`). Son **sugerencias para confirmar con las personas**, no vínculos "
+                 "afirmados. Regenerado desde los datos; no editar a mano.")
+    lines.append("")
+
+    unmet = defaultdict(list)  # seek -> seekers with no provider
+
+    for p in people:
+        seeks = p["tags"].get("seeks", [])
+        if not seeks:
+            continue
+        blocks = []
+        for s in seeks:
+            bridge = SEEK_BRIDGE.get(s, {s})  # fall back to exact-name match
+            providers = []
+            for q in people:
+                if q["slug"] == p["slug"]:
+                    continue
+                hit = sorted(bridge & set(q["tags"].get("offers", [])))
+                if hit:
+                    providers.append((q, hit))
+            if providers:
+                rendered = "; ".join(
+                    f"{person_link(q)} _(ofrece {', '.join(hit)})_" for q, hit in providers
+                )
+                blocks.append(f"- **{s}** → {rendered}")
+            else:
+                blocks.append(f"- **{s}** → _sin oferta en la base (necesidad no cubierta)_")
+                unmet[s].append(p)
+        lines.append(f"## {person_link(p)} — busca")
+        lines.extend(blocks)
+        lines.append("")
+
+    lines.append("## ⚠️ Necesidades no cubiertas")
+    lines.append("*Lo que la comunidad busca pero nadie ofrece todavía — dónde hace falta sumar gente.*")
+    lines.append("")
+    if unmet:
+        for s, seekers in sorted(unmet.items(), key=lambda x: -len(x[1])):
+            names = ", ".join(person_link(p) for p in seekers)
+            lines.append(f"- **{s}** ({len(seekers)}): {names}")
+    else:
+        lines.append("- (ninguna)")
+    lines.append("")
+
+    with open(os.path.join(HERE, "MATCHES.md"), "w") as f:
         f.write("\n".join(lines))
 
 
@@ -375,9 +475,10 @@ def main():
     for th, ppl in theme_people.items():
         write_theme(th, ppl)
     write_index(people, orgs)
+    write_matches(people)
     write_home(people, orgs, theme_people)
     print(f"Generated {len(people)} profiles, {len(orgs)} orgs, "
-          f"{len(theme_people)} theme nodes + INDEX.md + HOME.md")
+          f"{len(theme_people)} theme nodes + INDEX.md + MATCHES.md + HOME.md")
 
 
 if __name__ == "__main__":

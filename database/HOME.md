@@ -7,6 +7,7 @@ Base de datos viva de la comunidad centroamericana de enfermedades raras. El obj
 ## Cómo navegar
 - **Grafo** (Ctrl/Cmd-G): los nodos dorados son **temas** (los conectores), verdes **organizaciones**, azules **personas** (naranja = país inferido, por confirmar).
 - **Panel de etiquetas**: despliega `offers/` y `seeks/` para ver quién ofrece / busca qué.
+- [[MATCHES|🔗 Emparejamiento sugerido]] · quién debería conocer a quién + necesidades no cubiertas.
 - [[INDEX|Índice completo]] · tablas de personas, países y emparejamiento.
 
 ## Temas (tableros de emparejamiento)
