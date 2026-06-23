@@ -1,9 +1,50 @@
+---
+id: 11
+name: "Marco Tulio Páez"
+title: "Dr."
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Pediatra y genetista"
+sectors:
+  - "clinical_geneticist"
+  - "pediatrician"
+disease_focus:
+  - "Anomalías congénitas"
+  - "Enfermedades raras (pediátricas/genéticas)"
+orgs:
+  - "[[orgs/org-cepcal|CEPCAL]]"
+offers:
+  - "diagnosis_support"
+  - "education"
+  - "registry_design"
+seeks:
+  - "engineering_partners"
+  - "legislation"
+  - "patient_org_consensus"
+themes:
+  - "[[themes/data_registry|data_registry]]"
+  - "[[themes/legislation|legislation]]"
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/networks|networks]]"
+video: "WhatsApp Video 2026-06-21 at 2.38.48 PM.mp4"
+source_timestamp: "2.38.48 PM"
+tags:
+  - "person"
+  - "offers/diagnosis_support"
+  - "offers/education"
+  - "offers/registry_design"
+  - "seeks/engineering_partners"
+  - "seeks/legislation"
+  - "seeks/patient_org_consensus"
+---
+
 # Marco Tulio Páez
 *Dr.*
 
 **País:** Guatemala (inferred)  
 **Rol:** Pediatra y genetista  
-**Organizaciones:** CEPCAL (vinculado a la ficha clínica epidemiológica)  
+**Organizaciones:** [[orgs/org-cepcal|CEPCAL]]  
 **Enfoque de enfermedad:** Anomalías congénitas, Enfermedades raras (pediátricas/genéticas)  
 **Sector:** clinical_geneticist, pediatrician  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.38.48 PM.mp4 (2.38.48 PM)

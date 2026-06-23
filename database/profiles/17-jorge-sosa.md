@@ -1,3 +1,34 @@
+---
+id: 17
+name: "Jorge Sosa"
+country: "Honduras"
+country_certainty: "stated"
+role: "Académico/profesional con maestría en genética en biomedicina"
+sectors:
+  - "academia"
+disease_focus:
+  - "Enfermedades raras (general / genética)"
+offers:
+  - "academic_multiplier"
+seeks:
+  - "knowledge"
+  - "networks"
+  - "congress_model"
+themes:
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/multidisciplinary_care|multidisciplinary_care]]"
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+video: "WhatsApp Video 2026-06-21 at 2.40.33 PM.mp4"
+source_timestamp: "2.40.33 PM"
+tags:
+  - "person"
+  - "offers/academic_multiplier"
+  - "seeks/knowledge"
+  - "seeks/networks"
+  - "seeks/congress_model"
+---
+
 # Jorge Sosa
 
 **País:** Honduras (stated)  

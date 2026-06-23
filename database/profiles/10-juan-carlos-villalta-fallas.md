@@ -1,9 +1,50 @@
+---
+id: 10
+name: "Juan Carlos Villalta Fallas"
+title: "Dr."
+country: "Costa Rica"
+country_certainty: "stated"
+role: "Médico genetista clínico; Seguridad Social (CCSS): genética clínica reproductiva del programa de fecundación in vitro y Programa Nacional de Cáncer Hereditario (consejo genético oncológico); práctica privada"
+sectors:
+  - "clinical_geneticist"
+disease_focus:
+  - "Enfermedades huérfanas"
+  - "Cáncer hereditario"
+orgs:
+  - "[[orgs/org-ccss|Caja Costarricense de Seguro Social (CCSS) — Programa Nacional de Cáncer Hereditario]]"
+  - "[[orgs/org-genomica-humana-cr|Asociación de Genómica Humana Costarricense]]"
+offers:
+  - "clinical_genetics"
+  - "consulting_group"
+  - "regional_network"
+seeks:
+  - "awareness"
+  - "government_support"
+  - "human_resources"
+themes:
+  - "[[themes/legislation|legislation]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/human_resources|human_resources]]"
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/regional_collaboration|regional_collaboration]]"
+video: "WhatsApp Video 2026-06-21 at 2.38.33 PM.mp4"
+source_timestamp: "2.38.33 PM"
+tags:
+  - "person"
+  - "offers/clinical_genetics"
+  - "offers/consulting_group"
+  - "offers/regional_network"
+  - "seeks/awareness"
+  - "seeks/government_support"
+  - "seeks/human_resources"
+---
+
 # Juan Carlos Villalta Fallas
 *Dr.*
 
 **País:** Costa Rica (stated)  
 **Rol:** Médico genetista clínico; Seguridad Social (CCSS): genética clínica reproductiva del programa de fecundación in vitro y Programa Nacional de Cáncer Hereditario (consejo genético oncológico); práctica privada  
-**Organizaciones:** Caja Costarricense de Seguro Social (CCSS); Programa Nacional de Cáncer Hereditario; Asociación de Genómica Humana Costarricense (revivida); Hospital Dr. Rafael Calderón Guardia  
+**Organizaciones:** [[orgs/org-ccss|Caja Costarricense de Seguro Social (CCSS) — Programa Nacional de Cáncer Hereditario]]; [[orgs/org-genomica-humana-cr|Asociación de Genómica Humana Costarricense]]  
 **Enfoque de enfermedad:** Enfermedades huérfanas, Cáncer hereditario  
 **Sector:** clinical_geneticist  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.38.33 PM.mp4 (2.38.33 PM)

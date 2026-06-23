@@ -1,8 +1,47 @@
+---
+id: 12
+name: "Valte Rosales"
+country: "México"
+country_certainty: "stated"
+role: "CEO / director general y cofundador de Galenus (empresa de software médico)"
+sectors:
+  - "healthtech_founder"
+disease_focus:
+  - "Odisea diagnóstica (transversal)"
+orgs:
+  - "[[orgs/org-galenus|Galenus]]"
+offers:
+  - "technology"
+  - "software"
+  - "ai_tools"
+seeks:
+  - "patients"
+  - "physicians"
+  - "alliances"
+  - "network_effect"
+themes:
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/data_registry|data_registry]]"
+  - "[[themes/networks|networks]]"
+  - "[[themes/awareness|awareness]]"
+video: "WhatsApp Video 2026-06-21 at 2.39.12 PM.mp4"
+source_timestamp: "2.39.12 PM"
+tags:
+  - "person"
+  - "offers/technology"
+  - "offers/software"
+  - "offers/ai_tools"
+  - "seeks/patients"
+  - "seeks/physicians"
+  - "seeks/alliances"
+  - "seeks/network_effect"
+---
+
 # Valte Rosales
 
 **País:** México (stated)  
 **Rol:** CEO / director general y cofundador de Galenus (empresa de software médico)  
-**Organizaciones:** Galenus  
+**Organizaciones:** [[orgs/org-galenus|Galenus]]  
 **Enfoque de enfermedad:** Odisea diagnóstica (transversal)  
 **Sector:** healthtech_founder  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.39.12 PM.mp4 (2.39.12 PM)

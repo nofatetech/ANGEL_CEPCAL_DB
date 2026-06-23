@@ -1,9 +1,55 @@
+---
+id: 8
+name: "Cris (Ingris) Peláez Ballestas"
+title: "Dra."
+country: "México"
+country_certainty: "stated"
+role: "Investigadora en ciencias médicas, servicio de reumatología, Hospital General de México; doble formación en medicina y antropología (antropología médica)"
+sectors:
+  - "researcher"
+  - "academia"
+  - "clinician"
+disease_focus:
+  - "Enfermedades reumáticas poco frecuentes"
+  - "Artritis idiopática juvenil"
+  - "Enfermedades lisosomales"
+orgs:
+  - "[[orgs/org-fecpac|FECPAC]]"
+  - "[[orgs/org-hospital-general-mexico|Hospital General de México — Servicio de Reumatología]]"
+offers:
+  - "research"
+  - "methodology"
+  - "epidemiological_data"
+  - "concept_peregrinaje"
+seeks:
+  - "data_collaboration"
+  - "latam_registry"
+  - "networks"
+themes:
+  - "[[themes/data_registry|data_registry]]"
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/multidisciplinary_care|multidisciplinary_care]]"
+  - "[[themes/networks|networks]]"
+  - "[[themes/regional_collaboration|regional_collaboration]]"
+video: "WhatsApp Video 2026-06-21 at 2.37.46 PM.mp4"
+source_timestamp: "2.37.46 PM"
+tags:
+  - "person"
+  - "offers/research"
+  - "offers/methodology"
+  - "offers/epidemiological_data"
+  - "offers/concept_peregrinaje"
+  - "seeks/data_collaboration"
+  - "seeks/latam_registry"
+  - "seeks/networks"
+---
+
 # Cris (Ingris) Peláez Ballestas
 *Dra.*
 
 **País:** México (stated)  
 **Rol:** Investigadora en ciencias médicas, servicio de reumatología, Hospital General de México; doble formación en medicina y antropología (antropología médica)  
-**Organizaciones:** Hospital General de México; FECPAC (colaboración); Hospital Infantil de México (colaboración)  
+**Organizaciones:** [[orgs/org-fecpac|FECPAC]]; [[orgs/org-hospital-general-mexico|Hospital General de México — Servicio de Reumatología]]  
 **Enfoque de enfermedad:** Enfermedades reumáticas poco frecuentes, Artritis idiopática juvenil, Enfermedades lisosomales  
 **Sector:** researcher, academia, clinician  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.37.46 PM.mp4 (2.37.46 PM)

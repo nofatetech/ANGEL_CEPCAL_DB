@@ -1,8 +1,45 @@
+---
+id: 2
+name: "Patricia Morales"
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Fundadora de una asociación de fibrosis quística; madre de un hijo con fibrosis quística"
+sectors:
+  - "patient_org_founder"
+  - "caregiver"
+disease_focus:
+  - "Fibrosis quística"
+orgs:
+  - "[[orgs/org-fq|Asociación de Fibrosis Quística (nombre por confirmar)]]"
+offers:
+  - "patient_accompaniment"
+  - "network_building"
+seeks:
+  - "networks"
+  - "advocacy"
+  - "visibility"
+themes:
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/networks|networks]]"
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/inclusion|inclusion]]"
+video: "WhatsApp Video 2026-06-21 at 2.35.05 PM.mp4"
+source_timestamp: "2.35.05 PM"
+tags:
+  - "person"
+  - "offers/patient_accompaniment"
+  - "offers/network_building"
+  - "seeks/networks"
+  - "seeks/advocacy"
+  - "seeks/visibility"
+---
+
 # Patricia Morales
 
 **País:** Guatemala (inferred)  
 **Rol:** Fundadora de una asociación de fibrosis quística; madre de un hijo con fibrosis quística  
-**Organizaciones:** Asociación de Fibrosis Quística (nombre no especificado)  
+**Organizaciones:** [[orgs/org-fq|Asociación de Fibrosis Quística (nombre por confirmar)]]  
 **Enfoque de enfermedad:** Fibrosis quística  
 **Sector:** patient_org_founder, caregiver  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.35.05 PM.mp4 (2.35.05 PM)

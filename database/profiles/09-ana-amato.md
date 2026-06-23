@@ -1,8 +1,49 @@
+---
+id: 9
+name: "Ana Amato"
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Nutricionista; trabaja para el Instituto de Investigaciones I2Q3 de la Universidad Mariano Gálvez; docente universitaria"
+sectors:
+  - "nutritionist"
+  - "academia"
+  - "organizer"
+disease_focus:
+  - "Errores innatos del metabolismo (nutrición)"
+orgs:
+  - "[[orgs/org-cepcal|CEPCAL]]"
+  - "[[orgs/org-umg|Universidad Mariano Gálvez (UMG)]]"
+offers:
+  - "nutrition"
+  - "education"
+  - "sensibilization"
+seeks:
+  - "training"
+  - "networks"
+  - "product_access"
+themes:
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/legislation|legislation]]"
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/networks|networks]]"
+video: "WhatsApp Video 2026-06-21 at 2.38.07 PM.mp4"
+source_timestamp: "2.38.07 PM"
+tags:
+  - "person"
+  - "offers/nutrition"
+  - "offers/education"
+  - "offers/sensibilization"
+  - "seeks/training"
+  - "seeks/networks"
+  - "seeks/product_access"
+---
+
 # Ana Amato
 
 **País:** Guatemala (inferred)  
 **Rol:** Nutricionista; trabaja para el Instituto de Investigaciones I2Q3 de la Universidad Mariano Gálvez; docente universitaria  
-**Organizaciones:** Instituto de Investigaciones I2Q3 — Universidad Mariano Gálvez; staff organizador del congreso  
+**Organizaciones:** [[orgs/org-cepcal|CEPCAL]]; [[orgs/org-umg|Universidad Mariano Gálvez (UMG)]]  
 **Enfoque de enfermedad:** Errores innatos del metabolismo (nutrición)  
 **Sector:** nutritionist, academia, organizer  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.38.07 PM.mp4 (2.38.07 PM)

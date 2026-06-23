@@ -1,3 +1,33 @@
+---
+id: 4
+name: "Rodrigo"
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Paciente"
+sectors:
+  - "patient"
+disease_focus:
+  - "Distrofia muscular de Duchenne"
+offers:
+  - "lived_experience"
+seeks:
+  - "respect"
+  - "inclusion"
+  - "associations"
+themes:
+  - "[[themes/inclusion|inclusion]]"
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/education|education]]"
+video: "WhatsApp Video 2026-06-21 at 2.35.31 PM.mp4"
+source_timestamp: "2.35.31 PM"
+tags:
+  - "person"
+  - "offers/lived_experience"
+  - "seeks/respect"
+  - "seeks/inclusion"
+  - "seeks/associations"
+---
+
 # Rodrigo
 
 **País:** Guatemala (inferred)  

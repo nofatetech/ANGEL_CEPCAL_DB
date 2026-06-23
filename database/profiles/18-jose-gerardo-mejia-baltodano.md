@@ -1,9 +1,49 @@
+---
+id: 18
+name: "José Gerardo Mejía Baltodano"
+title: "Dr."
+country: "Nicaragua"
+country_certainty: "stated"
+role: "Médico pediatra y especialista en genética"
+sectors:
+  - "clinical_geneticist"
+  - "pediatrician"
+disease_focus:
+  - "Enfermedades raras (pediátricas/genéticas)"
+orgs:
+  - "[[orgs/org-centro-genetica-nicaragua|Centro de genética (Nicaragua)]]"
+offers:
+  - "clinical_genetics"
+  - "diagnosis_center"
+  - "family_support"
+seeks:
+  - "registry_software"
+  - "patient_experiences"
+  - "sample_logistics"
+themes:
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/multidisciplinary_care|multidisciplinary_care]]"
+  - "[[themes/regional_collaboration|regional_collaboration]]"
+  - "[[themes/networks|networks]]"
+video: "WhatsApp Video 2026-06-21 at 2.41.03 PM.mp4"
+source_timestamp: "2.41.03 PM"
+tags:
+  - "person"
+  - "offers/clinical_genetics"
+  - "offers/diagnosis_center"
+  - "offers/family_support"
+  - "seeks/registry_software"
+  - "seeks/patient_experiences"
+  - "seeks/sample_logistics"
+---
+
 # José Gerardo Mejía Baltodano
 *Dr.*
 
 **País:** Nicaragua (stated)  
 **Rol:** Médico pediatra y especialista en genética  
-**Organizaciones:** Centro de genética en Nicaragua (en desarrollo)  
+**Organizaciones:** [[orgs/org-centro-genetica-nicaragua|Centro de genética (Nicaragua)]]  
 **Enfoque de enfermedad:** Enfermedades raras (pediátricas/genéticas)  
 **Sector:** clinical_geneticist, pediatrician  
 **Contacto:** Abierto a que le escriban sobre el proyecto del centro de genética en Nicaragua  

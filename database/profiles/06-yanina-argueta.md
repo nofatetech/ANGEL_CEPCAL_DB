@@ -1,8 +1,44 @@
+---
+id: 6
+name: "Yanina Argueta"
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Fundadora de la Asociación Creciendo con Diabetes; madre de hijo con diabetes tipo 1; 20 años en el tema"
+sectors:
+  - "patient_org_founder"
+  - "caregiver"
+disease_focus:
+  - "Diabetes tipo 1"
+orgs:
+  - "[[orgs/org-creciendo-con-diabetes|Asociación Creciendo con Diabetes]]"
+offers:
+  - "mentorship"
+  - "community"
+  - "education"
+seeks:
+  - "networks"
+  - "science_updates"
+themes:
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/inclusion|inclusion]]"
+  - "[[themes/networks|networks]]"
+video: "WhatsApp Video 2026-06-21 at 2.35.56 PM.mp4"
+source_timestamp: "2.35.56 PM"
+tags:
+  - "person"
+  - "offers/mentorship"
+  - "offers/community"
+  - "offers/education"
+  - "seeks/networks"
+  - "seeks/science_updates"
+---
+
 # Yanina Argueta
 
 **País:** Guatemala (inferred)  
 **Rol:** Fundadora de la Asociación Creciendo con Diabetes; madre de hijo con diabetes tipo 1; 20 años en el tema  
-**Organizaciones:** Asociación Creciendo con Diabetes  
+**Organizaciones:** [[orgs/org-creciendo-con-diabetes|Asociación Creciendo con Diabetes]]  
 **Enfoque de enfermedad:** Diabetes tipo 1  
 **Sector:** patient_org_founder, caregiver  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.35.56 PM.mp4 (2.35.56 PM)

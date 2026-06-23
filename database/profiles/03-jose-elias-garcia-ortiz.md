@@ -1,3 +1,43 @@
+---
+id: 3
+name: "José Elías García Ortiz"
+title: "Dr."
+country: "México"
+country_certainty: "inferred"
+role: "Doctor en Genética Humana; ~30 años trabajando con enfermedades genéticas, en particular raras ligadas a enfermedades metabólicas"
+sectors:
+  - "clinical_geneticist"
+  - "researcher"
+  - "communicator"
+disease_focus:
+  - "Enfermedades genéticas/metabólicas raras"
+offers:
+  - "knowledge"
+  - "diagnosis_support"
+  - "education"
+  - "dissemination"
+seeks:
+  - "access"
+  - "education"
+  - "networks"
+themes:
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/education|education]]"
+  - "[[themes/inclusion|inclusion]]"
+video: "WhatsApp Video 2026-06-21 at 2.35.23 PM.mp4"
+source_timestamp: "2.35.23 PM"
+tags:
+  - "person"
+  - "offers/knowledge"
+  - "offers/diagnosis_support"
+  - "offers/education"
+  - "offers/dissemination"
+  - "seeks/access"
+  - "seeks/education"
+  - "seeks/networks"
+---
+
 # José Elías García Ortiz
 *Dr.*
 

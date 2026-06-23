@@ -1,8 +1,48 @@
+---
+id: 15
+name: "Óscar Peña Rodas"
+country: "El Salvador"
+country_certainty: "stated"
+role: "Investigador; afiliado a la Universidad (Dr.) Andrés Bello; investiga microdeleciones del cromosoma Y e implicaciones en fertilidad masculina"
+sectors:
+  - "researcher"
+  - "academia"
+disease_focus:
+  - "Microdeleciones del cromosoma Y"
+  - "Infertilidad masculina"
+orgs:
+  - "[[orgs/org-andres-bello|Universidad Dr. Andrés Bello]]"
+offers:
+  - "data_generation"
+  - "research"
+seeks:
+  - "patients"
+  - "funding"
+  - "specialists"
+  - "ngs_collaboration"
+themes:
+  - "[[themes/data_registry|data_registry]]"
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/funding|funding]]"
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/regional_collaboration|regional_collaboration]]"
+video: "WhatsApp Video 2026-06-21 at 2.40.03 PM.mp4"
+source_timestamp: "2.40.03 PM"
+tags:
+  - "person"
+  - "offers/data_generation"
+  - "offers/research"
+  - "seeks/patients"
+  - "seeks/funding"
+  - "seeks/specialists"
+  - "seeks/ngs_collaboration"
+---
+
 # Óscar Peña Rodas
 
 **País:** El Salvador (stated)  
 **Rol:** Investigador; afiliado a la Universidad (Dr.) Andrés Bello; investiga microdeleciones del cromosoma Y e implicaciones en fertilidad masculina  
-**Organizaciones:** Universidad Dr. Andrés Bello  
+**Organizaciones:** [[orgs/org-andres-bello|Universidad Dr. Andrés Bello]]  
 **Enfoque de enfermedad:** Microdeleciones del cromosoma Y, Infertilidad masculina  
 **Sector:** researcher, academia  
 **Contacto:** Redes sociales de la Universidad Dr. Andrés Bello; buscar 'Óscar Peña Rodas'  

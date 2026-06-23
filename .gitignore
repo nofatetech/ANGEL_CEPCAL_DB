@@ -8,4 +8,8 @@ Videos_CEPCAL_2026/*.mp4
 .DS_Store
 Thumbs.db
 *.swp
-.obsidian/
+# Obsidian: track the curated vault config (graph colors, plugins, appearance)
+# so the experience travels with the repo; ignore only per-machine UI state.
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache

@@ -1,9 +1,47 @@
+---
+id: 14
+name: "Carlos Sánchez"
+title: "Dr."
+country: "República Dominicana"
+country_certainty: "stated"
+role: "Médico; dirige un programa público de acceso a tratamiento para pacientes con enfermedades raras en República Dominicana; se define como activista social"
+sectors:
+  - "public_health_official"
+  - "clinician"
+  - "advocate"
+disease_focus:
+  - "Enfermedades raras (acceso a medicamentos de alto costo)"
+orgs:
+  - "[[orgs/org-rd-programa|Programa público de acceso a tratamiento (República Dominicana)]]"
+offers:
+  - "medication_access"
+  - "public_policy_experience"
+seeks:
+  - "diagnosis_groups"
+  - "training_programs"
+  - "congress_replication"
+themes:
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/human_resources|human_resources]]"
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/regional_collaboration|regional_collaboration]]"
+video: "WhatsApp Video 2026-06-21 at 2.39.48 PM.mp4"
+source_timestamp: "2.39.48 PM"
+tags:
+  - "person"
+  - "offers/medication_access"
+  - "offers/public_policy_experience"
+  - "seeks/diagnosis_groups"
+  - "seeks/training_programs"
+  - "seeks/congress_replication"
+---
+
 # Carlos Sánchez
 *Dr.*
 
 **País:** República Dominicana (stated)  
 **Rol:** Médico; dirige un programa público de acceso a tratamiento para pacientes con enfermedades raras en República Dominicana; se define como activista social  
-**Organizaciones:** Programa público de acceso a tratamiento (República Dominicana)  
+**Organizaciones:** [[orgs/org-rd-programa|Programa público de acceso a tratamiento (República Dominicana)]]  
 **Enfoque de enfermedad:** Enfermedades raras (acceso a medicamentos de alto costo)  
 **Sector:** public_health_official, clinician, advocate  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.39.48 PM.mp4 (2.39.48 PM)

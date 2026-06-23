@@ -1,8 +1,39 @@
+---
+id: 19
+name: "(No identificado — presentador de Ángel)"
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Presentador/a de la organización/iniciativa 'Ángel' (clip parcial, formato presentación, no entrevista)"
+sectors:
+  - "patient_org"
+disease_focus:
+  - "Enfermedades lisosomales"
+  - "Enfermedades raras (general)"
+orgs:
+  - "[[orgs/org-angel|Ángel]]"
+offers:
+  - "organization"
+  - "vision"
+  - "patient_accompaniment"
+themes:
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/inclusion|inclusion]]"
+  - "[[themes/awareness|awareness]]"
+video: "WhatsApp Video 2026-06-21 at 2.36.51 PM.mp4"
+source_timestamp: "2.36.51 PM"
+tags:
+  - "person"
+  - "offers/organization"
+  - "offers/vision"
+  - "offers/patient_accompaniment"
+---
+
 # (No identificado — presentador de Ángel)
 
 **País:** Guatemala (inferred)  
 **Rol:** Presentador/a de la organización/iniciativa 'Ángel' (clip parcial, formato presentación, no entrevista)  
-**Organizaciones:** Ángel  
+**Organizaciones:** [[orgs/org-angel|Ángel]]  
 **Enfoque de enfermedad:** Enfermedades lisosomales, Enfermedades raras (general)  
 **Sector:** patient_org  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.36.51 PM.mp4 (2.36.51 PM)

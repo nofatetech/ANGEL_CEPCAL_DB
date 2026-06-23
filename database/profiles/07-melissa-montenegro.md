@@ -1,8 +1,43 @@
+---
+id: 7
+name: "Melissa Montenegro"
+country: "Costa Rica"
+country_certainty: "stated"
+role: "Trabaja en Corporación Capris (Capris Médica), distribuidora de tecnología presente en la mayoría de países de Centroamérica"
+sectors:
+  - "industry_distributor"
+disease_focus:
+  - "Diagnóstico (plataformas tecnológicas / genómica)"
+orgs:
+  - "[[orgs/org-capris|Corporación Capris / Capris Médica]]"
+offers:
+  - "technology"
+  - "diagnosis_tools"
+  - "regional_knowledge"
+seeks:
+  - "networks"
+  - "collaboration"
+themes:
+  - "[[themes/data_registry|data_registry]]"
+  - "[[themes/data_sovereignty|data_sovereignty]]"
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/networks|networks]]"
+video: "WhatsApp Video 2026-06-21 at 2.36.09 PM.mp4"
+source_timestamp: "2.36.09 PM"
+tags:
+  - "person"
+  - "offers/technology"
+  - "offers/diagnosis_tools"
+  - "offers/regional_knowledge"
+  - "seeks/networks"
+  - "seeks/collaboration"
+---
+
 # Melissa Montenegro
 
 **País:** Costa Rica (stated)  
 **Rol:** Trabaja en Corporación Capris (Capris Médica), distribuidora de tecnología presente en la mayoría de países de Centroamérica  
-**Organizaciones:** Corporación Capris / Capris Médica; Illumina (empresa representada)  
+**Organizaciones:** [[orgs/org-capris|Corporación Capris / Capris Médica]]  
 **Enfoque de enfermedad:** Diagnóstico (plataformas tecnológicas / genómica)  
 **Sector:** industry_distributor  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.36.09 PM.mp4 (2.36.09 PM)

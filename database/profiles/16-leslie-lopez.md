@@ -1,3 +1,37 @@
+---
+id: 16
+name: "Leslie López"
+country: "Honduras"
+country_certainty: "stated"
+role: "Microbióloga clínica; área de medicina transfusional; docencia"
+sectors:
+  - "microbiologist"
+  - "academia"
+disease_focus:
+  - "Fenotipos sanguíneos raros"
+offers:
+  - "transfusion_medicine"
+  - "education"
+  - "awareness"
+seeks:
+  - "knowledge"
+  - "networks"
+themes:
+  - "[[themes/legislation|legislation]]"
+  - "[[themes/awareness|awareness]]"
+  - "[[themes/funding|funding]]"
+  - "[[themes/education|education]]"
+video: "WhatsApp Video 2026-06-21 at 2.40.14 PM.mp4"
+source_timestamp: "2.40.14 PM"
+tags:
+  - "person"
+  - "offers/transfusion_medicine"
+  - "offers/education"
+  - "offers/awareness"
+  - "seeks/knowledge"
+  - "seeks/networks"
+---
+
 # Leslie López
 
 **País:** Honduras (stated)  

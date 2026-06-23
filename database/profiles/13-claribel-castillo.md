@@ -1,8 +1,49 @@
+---
+id: 13
+name: "Claribel Castillo"
+country: "Guatemala"
+country_certainty: "stated"
+role: "Psicóloga; fundadora de la Asociación Síndrome de Rett Guatemala"
+sectors:
+  - "patient_org_founder"
+  - "psychologist"
+disease_focus:
+  - "Síndrome de Rett"
+orgs:
+  - "[[orgs/org-rett-guatemala|Asociación Síndrome de Rett Guatemala]]"
+offers:
+  - "dissemination"
+  - "mental_health"
+  - "caregiver_focus"
+seeks:
+  - "networks"
+  - "alliances"
+  - "web_presence"
+  - "volunteers"
+themes:
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/inclusion|inclusion]]"
+  - "[[themes/caregiver_burden|caregiver_burden]]"
+  - "[[themes/networks|networks]]"
+video: "WhatsApp Video 2026-06-21 at 2.39.31 PM.mp4"
+source_timestamp: "2.39.31 PM"
+tags:
+  - "person"
+  - "offers/dissemination"
+  - "offers/mental_health"
+  - "offers/caregiver_focus"
+  - "seeks/networks"
+  - "seeks/alliances"
+  - "seeks/web_presence"
+  - "seeks/volunteers"
+---
+
 # Claribel Castillo
 
 **País:** Guatemala (stated)  
 **Rol:** Psicóloga; fundadora de la Asociación Síndrome de Rett Guatemala  
-**Organizaciones:** Asociación Síndrome de Rett Guatemala  
+**Organizaciones:** [[orgs/org-rett-guatemala|Asociación Síndrome de Rett Guatemala]]  
 **Enfoque de enfermedad:** Síndrome de Rett  
 **Sector:** patient_org_founder, psychologist  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.39.31 PM.mp4 (2.39.31 PM)

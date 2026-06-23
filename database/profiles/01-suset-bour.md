@@ -1,9 +1,46 @@
+---
+id: 1
+name: "Suset Bour"
+title: "Lcda."
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Coordinadora del área biológica de servicios, Universidad Mariano Gálvez; a cargo de la secuenciación de nueva generación (NGS) del laboratorio de biología molecular"
+sectors:
+  - "lab_scientist"
+  - "academia"
+disease_focus:
+  - "enfermedades raras (diagnóstico general por NGS)"
+orgs:
+  - "[[orgs/org-umg|Universidad Mariano Gálvez (UMG)]]"
+offers:
+  - "sequencing_lab"
+  - "diagnosis_support"
+seeks:
+  - "funding"
+  - "legislation"
+  - "networks"
+themes:
+  - "[[themes/access_to_diagnosis|access_to_diagnosis]]"
+  - "[[themes/legislation|legislation]]"
+  - "[[themes/funding|funding]]"
+  - "[[themes/awareness|awareness]]"
+video: "WhatsApp Video 2026-06-21 at 2.34.46 PM.mp4"
+source_timestamp: "2.34.46 PM"
+tags:
+  - "person"
+  - "offers/sequencing_lab"
+  - "offers/diagnosis_support"
+  - "seeks/funding"
+  - "seeks/legislation"
+  - "seeks/networks"
+---
+
 # Suset Bour
 *Lcda.*
 
 **País:** Guatemala (inferred)  
 **Rol:** Coordinadora del área biológica de servicios, Universidad Mariano Gálvez; a cargo de la secuenciación de nueva generación (NGS) del laboratorio de biología molecular  
-**Organizaciones:** Universidad Mariano Gálvez (UMG) — Laboratorio de Biología Molecular  
+**Organizaciones:** [[orgs/org-umg|Universidad Mariano Gálvez (UMG)]]  
 **Enfoque de enfermedad:** enfermedades raras (diagnóstico general por NGS)  
 **Sector:** lab_scientist, academia  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.34.46 PM.mp4 (2.34.46 PM)

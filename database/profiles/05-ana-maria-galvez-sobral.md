@@ -1,8 +1,45 @@
+---
+id: 5
+name: "Ana María Gálvez Sobral"
+country: "Guatemala"
+country_certainty: "inferred"
+role: "Integrante de la Asociación Creciendo con Diabetes; madre de hijo con diabetes tipo 1"
+sectors:
+  - "patient_org"
+  - "caregiver"
+disease_focus:
+  - "Diabetes tipo 1"
+orgs:
+  - "[[orgs/org-creciendo-con-diabetes|Asociación Creciendo con Diabetes]]"
+offers:
+  - "education"
+  - "patient_accompaniment"
+  - "replicable_program"
+seeks:
+  - "networks"
+  - "science_updates"
+themes:
+  - "[[themes/diagnosis_delay|diagnosis_delay]]"
+  - "[[themes/access_to_treatment|access_to_treatment]]"
+  - "[[themes/multidisciplinary_care|multidisciplinary_care]]"
+  - "[[themes/inclusion|inclusion]]"
+  - "[[themes/networks|networks]]"
+video: "WhatsApp Video 2026-06-21 at 2.35.56 PM.mp4"
+source_timestamp: "2.35.56 PM"
+tags:
+  - "person"
+  - "offers/education"
+  - "offers/patient_accompaniment"
+  - "offers/replicable_program"
+  - "seeks/networks"
+  - "seeks/science_updates"
+---
+
 # Ana María Gálvez Sobral
 
 **País:** Guatemala (inferred)  
 **Rol:** Integrante de la Asociación Creciendo con Diabetes; madre de hijo con diabetes tipo 1  
-**Organizaciones:** Asociación Creciendo con Diabetes  
+**Organizaciones:** [[orgs/org-creciendo-con-diabetes|Asociación Creciendo con Diabetes]]  
 **Enfoque de enfermedad:** Diabetes tipo 1  
 **Sector:** patient_org, caregiver  
 **Fuente:** WhatsApp Video 2026-06-21 at 2.35.56 PM.mp4 (2.35.56 PM)

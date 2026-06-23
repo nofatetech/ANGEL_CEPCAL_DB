@@ -8,25 +8,25 @@
 
 | # | Nombre | País | Rol | Enfoque | Perfil |
 |---|--------|------|-----|---------|--------|
-| 1 | Suset Bour | Guatemala | Coordinadora del área biológica de servicios, Universidad Ma | enfermedades raras (diagnóstico general por NGS) | [ver](profiles/01-suset-bour.md) |
-| 2 | Patricia Morales | Guatemala | Fundadora de una asociación de fibrosis quística | Fibrosis quística | [ver](profiles/02-patricia-morales.md) |
-| 3 | José Elías García Ortiz | México | Doctor en Genética Humana | Enfermedades genéticas/metabólicas raras | [ver](profiles/03-jose-elias-garcia-ortiz.md) |
-| 4 | Rodrigo | Guatemala | Paciente | Distrofia muscular de Duchenne | [ver](profiles/04-rodrigo.md) |
-| 5 | Ana María Gálvez Sobral | Guatemala | Integrante de la Asociación Creciendo con Diabetes | Diabetes tipo 1 | [ver](profiles/05-ana-maria-galvez-sobral.md) |
-| 6 | Yanina Argueta | Guatemala | Fundadora de la Asociación Creciendo con Diabetes | Diabetes tipo 1 | [ver](profiles/06-yanina-argueta.md) |
-| 7 | Melissa Montenegro | Costa Rica | Trabaja en Corporación Capris (Capris Médica), distribuidora | Diagnóstico (plataformas tecnológicas / genómica) | [ver](profiles/07-melissa-montenegro.md) |
-| 8 | Cris (Ingris) Peláez Ballestas | México | Investigadora en ciencias médicas, servicio de reumatología, | Enfermedades reumáticas poco frecuentes, Artritis idiopática juvenil, Enfermedades lisosomales | [ver](profiles/08-cris-pelaez-ballestas.md) |
-| 9 | Ana Amato | Guatemala | Nutricionista | Errores innatos del metabolismo (nutrición) | [ver](profiles/09-ana-amato.md) |
-| 10 | Juan Carlos Villalta Fallas | Costa Rica | Médico genetista clínico | Enfermedades huérfanas, Cáncer hereditario | [ver](profiles/10-juan-carlos-villalta-fallas.md) |
-| 11 | Marco Tulio Páez | Guatemala | Pediatra y genetista | Anomalías congénitas, Enfermedades raras (pediátricas/genéticas) | [ver](profiles/11-marco-tulio-paez.md) |
-| 12 | Valte Rosales | México | CEO / director general y cofundador de Galenus (empresa de s | Odisea diagnóstica (transversal) | [ver](profiles/12-valte-rosales.md) |
-| 13 | Claribel Castillo | Guatemala | Psicóloga | Síndrome de Rett | [ver](profiles/13-claribel-castillo.md) |
-| 14 | Carlos Sánchez | República Dominicana | Médico | Enfermedades raras (acceso a medicamentos de alto costo) | [ver](profiles/14-carlos-sanchez.md) |
-| 15 | Óscar Peña Rodas | El Salvador | Investigador | Microdeleciones del cromosoma Y, Infertilidad masculina | [ver](profiles/15-oscar-pena-rodas.md) |
-| 16 | Leslie López | Honduras | Microbióloga clínica | Fenotipos sanguíneos raros | [ver](profiles/16-leslie-lopez.md) |
-| 17 | Jorge Sosa | Honduras | Académico/profesional con maestría en genética en biomedicin | Enfermedades raras (general / genética) | [ver](profiles/17-jorge-sosa.md) |
-| 18 | José Gerardo Mejía Baltodano | Nicaragua | Médico pediatra y especialista en genética | Enfermedades raras (pediátricas/genéticas) | [ver](profiles/18-jose-gerardo-mejia-baltodano.md) |
-| 19 | (No identificado — presentador de Ángel) | Guatemala | Presentador/a de la organización/iniciativa 'Ángel' (clip pa | Enfermedades lisosomales, Enfermedades raras (general) | [ver](profiles/19-angel-presenter-unidentified.md) |
+| 1 | Suset Bour | Guatemala | Coordinadora del área biológica de servicios, Universidad Ma | enfermedades raras (diagnóstico general por NGS) | [[profiles/01-suset-bour|ver]] |
+| 2 | Patricia Morales | Guatemala | Fundadora de una asociación de fibrosis quística | Fibrosis quística | [[profiles/02-patricia-morales|ver]] |
+| 3 | José Elías García Ortiz | México | Doctor en Genética Humana | Enfermedades genéticas/metabólicas raras | [[profiles/03-jose-elias-garcia-ortiz|ver]] |
+| 4 | Rodrigo | Guatemala | Paciente | Distrofia muscular de Duchenne | [[profiles/04-rodrigo|ver]] |
+| 5 | Ana María Gálvez Sobral | Guatemala | Integrante de la Asociación Creciendo con Diabetes | Diabetes tipo 1 | [[profiles/05-ana-maria-galvez-sobral|ver]] |
+| 6 | Yanina Argueta | Guatemala | Fundadora de la Asociación Creciendo con Diabetes | Diabetes tipo 1 | [[profiles/06-yanina-argueta|ver]] |
+| 7 | Melissa Montenegro | Costa Rica | Trabaja en Corporación Capris (Capris Médica), distribuidora | Diagnóstico (plataformas tecnológicas / genómica) | [[profiles/07-melissa-montenegro|ver]] |
+| 8 | Cris (Ingris) Peláez Ballestas | México | Investigadora en ciencias médicas, servicio de reumatología, | Enfermedades reumáticas poco frecuentes, Artritis idiopática juvenil, Enfermedades lisosomales | [[profiles/08-cris-pelaez-ballestas|ver]] |
+| 9 | Ana Amato | Guatemala | Nutricionista | Errores innatos del metabolismo (nutrición) | [[profiles/09-ana-amato|ver]] |
+| 10 | Juan Carlos Villalta Fallas | Costa Rica | Médico genetista clínico | Enfermedades huérfanas, Cáncer hereditario | [[profiles/10-juan-carlos-villalta-fallas|ver]] |
+| 11 | Marco Tulio Páez | Guatemala | Pediatra y genetista | Anomalías congénitas, Enfermedades raras (pediátricas/genéticas) | [[profiles/11-marco-tulio-paez|ver]] |
+| 12 | Valte Rosales | México | CEO / director general y cofundador de Galenus (empresa de s | Odisea diagnóstica (transversal) | [[profiles/12-valte-rosales|ver]] |
+| 13 | Claribel Castillo | Guatemala | Psicóloga | Síndrome de Rett | [[profiles/13-claribel-castillo|ver]] |
+| 14 | Carlos Sánchez | República Dominicana | Médico | Enfermedades raras (acceso a medicamentos de alto costo) | [[profiles/14-carlos-sanchez|ver]] |
+| 15 | Óscar Peña Rodas | El Salvador | Investigador | Microdeleciones del cromosoma Y, Infertilidad masculina | [[profiles/15-oscar-pena-rodas|ver]] |
+| 16 | Leslie López | Honduras | Microbióloga clínica | Fenotipos sanguíneos raros | [[profiles/16-leslie-lopez|ver]] |
+| 17 | Jorge Sosa | Honduras | Académico/profesional con maestría en genética en biomedicin | Enfermedades raras (general / genética) | [[profiles/17-jorge-sosa|ver]] |
+| 18 | José Gerardo Mejía Baltodano | Nicaragua | Médico pediatra y especialista en genética | Enfermedades raras (pediátricas/genéticas) | [[profiles/18-jose-gerardo-mejia-baltodano|ver]] |
+| 19 | (No identificado — presentador de Ángel) | Guatemala | Presentador/a de la organización/iniciativa 'Ángel' (clip pa | Enfermedades lisosomales, Enfermedades raras (general) | [[profiles/19-angel-presenter-unidentified|ver]] |
 
 ## Por país
 
@@ -40,21 +40,21 @@
 
 ## Por tema (themes)
 
-- **awareness** (11): Suset Bour, Patricia Morales, José Elías García Ortiz, Rodrigo, Ana Amato, Juan Carlos Villalta Fallas, Valte Rosales, Óscar Peña Rodas, Leslie López, Jorge Sosa, (No identificado — presentador de Ángel)
-- **access_to_treatment** (11): Patricia Morales, Ana María Gálvez Sobral, Yanina Argueta, Ana Amato, Juan Carlos Villalta Fallas, Marco Tulio Páez, Claribel Castillo, Carlos Sánchez, Jorge Sosa, José Gerardo Mejía Baltodano, (No identificado — presentador de Ángel)
-- **networks** (10): Patricia Morales, Ana María Gálvez Sobral, Yanina Argueta, Melissa Montenegro, Cris (Ingris) Peláez Ballestas, Ana Amato, Marco Tulio Páez, Valte Rosales, Claribel Castillo, José Gerardo Mejía Baltodano
-- **access_to_diagnosis** (8): Suset Bour, José Elías García Ortiz, Melissa Montenegro, Marco Tulio Páez, Carlos Sánchez, Óscar Peña Rodas, Jorge Sosa, José Gerardo Mejía Baltodano
-- **diagnosis_delay** (8): Patricia Morales, Ana María Gálvez Sobral, Yanina Argueta, Cris (Ingris) Peláez Ballestas, Ana Amato, Valte Rosales, Claribel Castillo, (No identificado — presentador de Ángel)
-- **inclusion** (7): Patricia Morales, José Elías García Ortiz, Rodrigo, Ana María Gálvez Sobral, Yanina Argueta, Claribel Castillo, (No identificado — presentador de Ángel)
-- **legislation** (5): Suset Bour, Ana Amato, Juan Carlos Villalta Fallas, Marco Tulio Páez, Leslie López
-- **data_registry** (5): Melissa Montenegro, Cris (Ingris) Peláez Ballestas, Marco Tulio Páez, Valte Rosales, Óscar Peña Rodas
-- **regional_collaboration** (5): Cris (Ingris) Peláez Ballestas, Juan Carlos Villalta Fallas, Carlos Sánchez, Óscar Peña Rodas, José Gerardo Mejía Baltodano
-- **multidisciplinary_care** (4): Ana María Gálvez Sobral, Cris (Ingris) Peláez Ballestas, Jorge Sosa, José Gerardo Mejía Baltodano
-- **funding** (3): Suset Bour, Óscar Peña Rodas, Leslie López
-- **education** (3): José Elías García Ortiz, Rodrigo, Leslie López
-- **human_resources** (2): Juan Carlos Villalta Fallas, Carlos Sánchez
-- **data_sovereignty** (1): Melissa Montenegro
-- **caregiver_burden** (1): Claribel Castillo
+- [[themes/awareness|awareness]] (11): Suset Bour, Patricia Morales, José Elías García Ortiz, Rodrigo, Ana Amato, Juan Carlos Villalta Fallas, Valte Rosales, Óscar Peña Rodas, Leslie López, Jorge Sosa, (No identificado — presentador de Ángel)
+- [[themes/access_to_treatment|access_to_treatment]] (11): Patricia Morales, Ana María Gálvez Sobral, Yanina Argueta, Ana Amato, Juan Carlos Villalta Fallas, Marco Tulio Páez, Claribel Castillo, Carlos Sánchez, Jorge Sosa, José Gerardo Mejía Baltodano, (No identificado — presentador de Ángel)
+- [[themes/networks|networks]] (10): Patricia Morales, Ana María Gálvez Sobral, Yanina Argueta, Melissa Montenegro, Cris (Ingris) Peláez Ballestas, Ana Amato, Marco Tulio Páez, Valte Rosales, Claribel Castillo, José Gerardo Mejía Baltodano
+- [[themes/access_to_diagnosis|access_to_diagnosis]] (8): Suset Bour, José Elías García Ortiz, Melissa Montenegro, Marco Tulio Páez, Carlos Sánchez, Óscar Peña Rodas, Jorge Sosa, José Gerardo Mejía Baltodano
+- [[themes/diagnosis_delay|diagnosis_delay]] (8): Patricia Morales, Ana María Gálvez Sobral, Yanina Argueta, Cris (Ingris) Peláez Ballestas, Ana Amato, Valte Rosales, Claribel Castillo, (No identificado — presentador de Ángel)
+- [[themes/inclusion|inclusion]] (7): Patricia Morales, José Elías García Ortiz, Rodrigo, Ana María Gálvez Sobral, Yanina Argueta, Claribel Castillo, (No identificado — presentador de Ángel)
+- [[themes/legislation|legislation]] (5): Suset Bour, Ana Amato, Juan Carlos Villalta Fallas, Marco Tulio Páez, Leslie López
+- [[themes/data_registry|data_registry]] (5): Melissa Montenegro, Cris (Ingris) Peláez Ballestas, Marco Tulio Páez, Valte Rosales, Óscar Peña Rodas
+- [[themes/regional_collaboration|regional_collaboration]] (5): Cris (Ingris) Peláez Ballestas, Juan Carlos Villalta Fallas, Carlos Sánchez, Óscar Peña Rodas, José Gerardo Mejía Baltodano
+- [[themes/multidisciplinary_care|multidisciplinary_care]] (4): Ana María Gálvez Sobral, Cris (Ingris) Peláez Ballestas, Jorge Sosa, José Gerardo Mejía Baltodano
+- [[themes/funding|funding]] (3): Suset Bour, Óscar Peña Rodas, Leslie López
+- [[themes/education|education]] (3): José Elías García Ortiz, Rodrigo, Leslie López
+- [[themes/human_resources|human_resources]] (2): Juan Carlos Villalta Fallas, Carlos Sánchez
+- [[themes/data_sovereignty|data_sovereignty]] (1): Melissa Montenegro
+- [[themes/caregiver_burden|caregiver_burden]] (1): Claribel Castillo
 
 ## Vista de emparejamiento (offers ↔ seeks)
 
@@ -141,18 +141,18 @@
 
 | Nombre | Tipo | País | Personas |
 |--------|------|------|----------|
-| FECPAC | federation / patient-organization network | Centroamérica (regional) | cris-pelaez-ballestas |
-| CEPCAL | congress / event | Centroamérica (regional, sede Guatemala) | marco-tulio-paez, ana-amato |
-| Ángel | patient organization / initiative | Guatemala (inferido) | angel-presenter-unidentified |
-| Universidad Mariano Gálvez (UMG) | university / laboratory | Guatemala | suset-bour, ana-amato |
-| Asociación Creciendo con Diabetes | patient organization | Guatemala (inferido) | yanina-argueta, ana-maria-galvez-sobral |
-| Corporación Capris / Capris Médica | industry / technology distributor | Costa Rica (sede); presencia en Centroamérica | melissa-montenegro |
-| Galenus | health-tech startup | México | valte-rosales |
-| Asociación Síndrome de Rett Guatemala | patient organization | Guatemala | claribel-castillo |
-| Asociación de Fibrosis Quística (nombre por confirmar) | patient organization | Guatemala (inferido) | patricia-morales |
-| Caja Costarricense de Seguro Social (CCSS) — Programa Nacional de Cáncer Hereditario | public health system / program | Costa Rica | juan-carlos-villalta-fallas |
-| Asociación de Genómica Humana Costarricense | professional association / advisory group | Costa Rica | juan-carlos-villalta-fallas |
-| Hospital General de México — Servicio de Reumatología | hospital / research service | México | cris-pelaez-ballestas |
-| Universidad Dr. Andrés Bello | university | El Salvador | oscar-pena-rodas |
-| Centro de genética (Nicaragua) | diagnostic center (in development) | Nicaragua | jose-gerardo-mejia-baltodano |
-| Programa público de acceso a tratamiento (República Dominicana) | public health program | República Dominicana | carlos-sanchez |
+| [[orgs/org-fecpac|FECPAC]] | federation / patient-organization network | Centroamérica (regional) | cris-pelaez-ballestas |
+| [[orgs/org-cepcal|CEPCAL]] | congress / event | Centroamérica (regional, sede Guatemala) | marco-tulio-paez, ana-amato |
+| [[orgs/org-angel|Ángel]] | patient organization / initiative | Guatemala (inferido) | angel-presenter-unidentified |
+| [[orgs/org-umg|Universidad Mariano Gálvez (UMG)]] | university / laboratory | Guatemala | suset-bour, ana-amato |
+| [[orgs/org-creciendo-con-diabetes|Asociación Creciendo con Diabetes]] | patient organization | Guatemala (inferido) | yanina-argueta, ana-maria-galvez-sobral |
+| [[orgs/org-capris|Corporación Capris / Capris Médica]] | industry / technology distributor | Costa Rica (sede); presencia en Centroamérica | melissa-montenegro |
+| [[orgs/org-galenus|Galenus]] | health-tech startup | México | valte-rosales |
+| [[orgs/org-rett-guatemala|Asociación Síndrome de Rett Guatemala]] | patient organization | Guatemala | claribel-castillo |
+| [[orgs/org-fq|Asociación de Fibrosis Quística (nombre por confirmar)]] | patient organization | Guatemala (inferido) | patricia-morales |
+| [[orgs/org-ccss|Caja Costarricense de Seguro Social (CCSS) — Programa Nacional de Cáncer Hereditario]] | public health system / program | Costa Rica | juan-carlos-villalta-fallas |
+| [[orgs/org-genomica-humana-cr|Asociación de Genómica Humana Costarricense]] | professional association / advisory group | Costa Rica | juan-carlos-villalta-fallas |
+| [[orgs/org-hospital-general-mexico|Hospital General de México — Servicio de Reumatología]] | hospital / research service | México | cris-pelaez-ballestas |
+| [[orgs/org-andres-bello|Universidad Dr. Andrés Bello]] | university | El Salvador | oscar-pena-rodas |
+| [[orgs/org-centro-genetica-nicaragua|Centro de genética (Nicaragua)]] | diagnostic center (in development) | Nicaragua | jose-gerardo-mejia-baltodano |
+| [[orgs/org-rd-programa|Programa público de acceso a tratamiento (República Dominicana)]] | public health program | República Dominicana | carlos-sanchez |
